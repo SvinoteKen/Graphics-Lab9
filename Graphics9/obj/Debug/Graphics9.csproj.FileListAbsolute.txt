@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\Graphics9\Graphics9\bin\Debug\Graphics9.exe.config
+C:\Users\MSI\source\repos\Graphics9\Graphics9\bin\Debug\Graphics9.exe
+C:\Users\MSI\source\repos\Graphics9\Graphics9\bin\Debug\Graphics9.pdb
+C:\Users\MSI\source\repos\Graphics9\Graphics9\obj\Debug\Graphics9.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Graphics9\Graphics9\obj\Debug\Graphics9.Form1.resources
+C:\Users\MSI\source\repos\Graphics9\Graphics9\obj\Debug\Graphics9.Properties.Resources.resources
+C:\Users\MSI\source\repos\Graphics9\Graphics9\obj\Debug\Graphics9.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Graphics9\Graphics9\obj\Debug\Graphics9.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Graphics9\Graphics9\obj\Debug\Graphics9.exe
+C:\Users\MSI\source\repos\Graphics9\Graphics9\obj\Debug\Graphics9.pdb
